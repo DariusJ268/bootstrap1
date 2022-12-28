@@ -1,0 +1,10 @@
+main{
+    /* background-color: rgb(58, 58, 175);
+    width: 100vw;
+    height: 100vh;*/
+    text-align: center;
+}
+
+.row > *{
+    border: 1px solid black;
+}
